@@ -1,0 +1,23 @@
+{
+    "language": "Language",
+    "@language":{
+     "description":"The current Language"
+
+     },
+     "select_language":"Please select your language",
+     "change_language":"You can change the language at any time",
+     "enter_mobile_number":"Please enter your mobile number",
+     "digit_code_verify":"You'll receive a 4 digit code to verify next",
+     "code_sent":"Code is sent to",
+     "not_receive":"Didn't receive the code?",
+     "select_profile":"Please select your profile",
+     "request_again":"Request Again",
+     "mobile_number":"Mobile Number",
+     "verify_phone":"Verify Phone",
+     "verify":"verify",
+     "next":"next",
+     "continues":"continue",
+     "shipper":"Shipper",
+     "transporter":"Transporter"
+
+}

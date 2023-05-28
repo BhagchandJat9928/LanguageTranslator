@@ -1,0 +1,18 @@
+{
+"language":"فارسی",
+   "select_language":"لطفا زبان خود را انتخاب کنید",
+     "change_language":"شما می توانید زبان را در هر زمان تغییر دهید",
+     "enter_mobile_number":"لطفا شماره موبایل خود را وارد کنید",
+     "digit_code_verify":"یک کد 4 رقمی برای تأیید بعدی دریافت خواهید کرد",
+     "code_sent":"کد ارسال می شود",
+     "not_receive":"کد را دریافت نکردید؟",
+     "select_profile":"لطفا پروفایل خود را انتخاب کنید",
+     "request_again":"درخواست مجدد",
+     "mobile_number":"شماره موبایل",
+     "verify_phone":"تأیید تلفن",
+     "verify":"تأیید",
+     "next":"بعد",
+     "continues":"ادامه هید",
+     "shipper":"دریا نورد",
+     "transporter":"حمل کننده"
+}

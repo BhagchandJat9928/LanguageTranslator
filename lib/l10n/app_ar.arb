@@ -1,0 +1,19 @@
+{
+    "language": "عربي",
+       "select_language":"الرجاء اختيار لغتك",
+         "change_language":"يمكنك تغيير اللغة في أي وقت",
+         "enter_mobile_number":"الرجاء إدخال رقم هاتفك المحمول",
+         "digit_code_verify":"ستتلقى رمزًا مكونًا من 4 أرقام للتحقق بعد ذلك",
+         "code_sent":"تم إرسال الرمز إلى",
+         "not_receive":"ألم يصلك الرمز؟",
+         "select_profile":"الرجاء تحديد ملف التعريف الخاص بك",
+         "request_again":"اطلب مرة أخرى",
+         "mobile_number":"رقم الهاتف المحمول",
+         "verify_phone":"تحقق من الهاتف",
+         "verify":"تحقق من",
+         "next":"التالي",
+         "continues":"يكمل",
+         "shipper":"الشاحن",
+         "transporter":"الناقل"
+
+}

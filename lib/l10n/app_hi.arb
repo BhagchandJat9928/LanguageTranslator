@@ -1,0 +1,19 @@
+{
+    "language": "हिंदी",
+       "select_language":"कृपया अपनी भाषा चुनें",
+         "change_language":"आप किसी भी समय भाषा बदल सकते हैं",
+         "enter_mobile_number":"अपना मोबाइल नंबर दर्ज करें",
+         "digit_code_verify":"आगे सत्यापित करने के लिए आपको 4 अंकों का कोड प्राप्त होगा",
+         "Code_sent":"कोड भेजा जाता है",
+         "not_receive":"कोड नहीं मिला?",
+         "select_profile":"कृपया अपनी प्रोफ़ाइल का चयन करें",
+         "request_again":"पुन: अनुरोध करें",
+         "mobile_number":"मोबाइल नंबर",
+         "verify_phone":"फ़ोन सत्यापित करें",
+         "verify":"सत्यापित करें",
+         "next":"अगला",
+         "continues":"जारी रखना",
+         "shipper":"शिपर",
+         "transporter":"ट्रांसपोर्टर"
+
+}

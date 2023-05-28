@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321978035171",
+    "firebase_url": "https://tiffinito-44c4f-default-rtdb.firebaseio.com",
+    "project_id": "tiffinito-44c4f",
+    "storage_bucket": "tiffinito-44c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321978035171:android:efa36720b2df700e874ed6",
+        "android_client_info": {
+          "package_name": "com.example.languagechanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321978035171-09m21vni98227vc5ehl4la28kdqgc3f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.languagechanger",
+            "certificate_hash": "0d3dc45e3b9391a8366cabefa1b4bb145b83170b"
+          }
+        },
+        {
+          "client_id": "321978035171-r8uduuj3fi35mtviatasbp6ahp7of16q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_JUFrwrgUMTVeSIKap-eVzZvGM6rlSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321978035171-r8uduuj3fi35mtviatasbp6ahp7of16q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321978035171-ecuno0qj9l8f0e7mpijut1q4afs434gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.languagechanger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

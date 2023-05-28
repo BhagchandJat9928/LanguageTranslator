@@ -15,6 +15,17 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   get: ^4.6.5
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  otp_text_field: ^1.1.3
+  firebase_auth: ^4.6.1
+  shared_preferences: ^2.1.1
+  countries_flag: ^1.0.0
+  font_awesome_flutter: ^10.4.0
+  firebase_core: ^2.13.0
+  firebase_app_check: ^0.1.4+1
+  http: ^0.13.6
 
 dev_dependencies:
   flutter_test:
@@ -32,6 +43,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  generate: true
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

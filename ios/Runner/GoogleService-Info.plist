@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>321978035171-htp09g1n6q939tctg383olssdqf2qqrh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321978035171-htp09g1n6q939tctg383olssdqf2qqrh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>321978035171-09m21vni98227vc5ehl4la28kdqgc3f3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJdyLz5SgCGLiIoRQMDz_Zu8olvKeBro4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321978035171</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.languagechanger</string>
+	<key>PROJECT_ID</key>
+	<string>tiffinito-44c4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiffinito-44c4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321978035171:ios:db13579fbb70409e874ed6</string>
+	<key>DATABASE_URL</key>
+	<string>https://tiffinito-44c4f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

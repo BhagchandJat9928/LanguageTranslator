@@ -1,0 +1,19 @@
+{
+    "language": "dansk",
+       "select_language":"Vælg venligst dit sprog",
+         "change_language":"Du kan til enhver tid ændre sproget",
+         "enter_mobile_number":"indtast venligst dit mobilnummer",
+         "digit_code_verify":"Du modtager en 4-cifret kode for at bekræfte næste gang",
+         "code_sent":"Kode sendes til",
+         "not_receive":"Modtog du ikke koden?",
+         "select_profile":"Vælg venligst din profil",
+         "request_again":"anmode igen",
+         "mobile_number":"Mobilnummer",
+         "verify_phone":"Bekræft telefon",
+         "verify":"Bekræft",
+         "next":"Næste",
+         "continues":"Blive ved",
+         "shipper":"afsender",
+         "transporter":"Transportør"
+
+}
